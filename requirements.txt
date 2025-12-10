@@ -1,0 +1,25 @@
+# Database drivers
+pymongo==4.6.1
+cassandra-driver==3.29.0
+redis==5.0.1
+neo4j==5.15.0
+
+# Data generation and analysis
+numpy==1.26.3
+pandas==2.1.4
+faker==22.0.0
+geopy==2.4.1
+shapely==2.0.2
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+pyyaml==6.0.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Visualization (optional)
+matplotlib==3.8.2
+seaborn==0.13.0
